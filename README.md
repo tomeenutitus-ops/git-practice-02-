@@ -10,3 +10,5 @@ This change was made in the feature/update branch.
 This is my DevOps practice project.
 
 AHGCJHDGCJHK BASDKJCDJ BAJKHSCBKJA
+
+This change was made directly on GitHub.
